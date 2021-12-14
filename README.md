@@ -1,1 +1,1 @@
-# Multicolinearity
+# Multicollinearity
